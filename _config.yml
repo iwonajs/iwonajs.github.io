@@ -1,7 +1,7 @@
 title:              iwonajs
 description:        Data Science & Technology Blog
 author:             Iwona Sokalska
-baseurl:            "/blog/"
+baseurl:            ""
 url:                "https://iwonajs.github.io"
 
 # Social Profiles
